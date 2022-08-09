@@ -1,3 +1,3 @@
 # First-dapp
-Git cline the project 
+Git clone the project 
 
